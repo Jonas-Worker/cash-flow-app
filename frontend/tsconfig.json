@@ -4,8 +4,7 @@
     "strict": true,
     "baseUrl": ".",      
     "paths": {
-      "*": ["node_modules/*", "frontend/*"] 
+      "*": ["node_modules/*"]
     }
   }
 }
-
